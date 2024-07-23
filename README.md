@@ -6,3 +6,6 @@
 - 💬 Ask me about anything related to frontend, music and movies 🎥
 - 📫 How to reach me: isaacmorap@outlook.com 🧑‍💻
 - ⚡ Fun fact: I spend most of the day with headphones 🎵
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
