@@ -2,7 +2,7 @@
 ## Hola / Hello 👋
 
 - 🔭 I’m currently working on a personal project 🎲
-- 🌱 I’m currently learning django 🐍
+- 🌱 I’m learning django 🐍
 - 👯 I’m looking to collaborate on startups 👨‍🏭
 - 💬 Ask me about anything related to frontend, music and movies 🎥
 - 📫 How to reach me: isaacmorap@outlook.com 🧑‍💻
