@@ -20,6 +20,5 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 🛠️ Tools: 
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) *just learning!!!
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dot-net&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
