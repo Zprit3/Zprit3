@@ -1,8 +1,8 @@
 ![My banner](https://github.com/Zprit3/Zprit3/blob/main/assets/banner.jpg)
-
-## Hola / Hello 👋
-
 <p align="center">
+## Hola / Hello 👋
+</p>
+
   🔭 I’m currently working on a personal project 🎲<br>
   🌱 I’m learning django 🐍<br>
   👯 I’m looking to collaborate on startups 👨‍🏭<br>
@@ -10,10 +10,10 @@
   📫 How to reach me: isaacmorap@outlook.com 🧑‍💻<br>
   ⚡ Fun fact: I spend most of the day with headphones 🎵⬇️
   
-  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres&count=3)](https://open.spotify.com/user/isackandres)
-</p>
+  
+
 
 <br><br>
 
-
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres&count=3)](https://open.spotify.com/user/isackandres)
 
