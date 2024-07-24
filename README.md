@@ -1,3 +1,4 @@
+![My banner](https://github.com/Zprit3/Zprit3/assets/banner.jpg)
 
 ## Hola / Hello 👋
 
@@ -8,7 +9,4 @@
 - 📫 How to reach me: isaacmorap@outlook.com 🧑‍💻
 - ⚡ Fun fact: I spend most of the day with headphones 🎵⬇️
 
-                                                                                                                      
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres&count=3)](https://open.spotify.com/user/isackandres)
-
-
