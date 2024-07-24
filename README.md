@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I spend most of the day with headphones 🎵
 
                                                                                                                       
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres)
 
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api)
