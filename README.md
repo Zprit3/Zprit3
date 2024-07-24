@@ -34,9 +34,13 @@
 
 ### 💻 development environment
 
-- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) I use Arch, btw
+- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) > I use Arch, btw
 - ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat&logo=kde&logoColor=white)
 - ![Linux Kernel Stable](https://img.shields.io/badge/Linux_Kernel-Stable-FCC624?style=flat&logo=linux&logoColor=black)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+- ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+
+
 
 
 
