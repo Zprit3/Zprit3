@@ -7,5 +7,7 @@
 - 📫 How to reach me: isaacmorap@outlook.com 🧑‍💻
 - ⚡ Fun fact: I spend most of the day with headphones 🎵
 
+                                                                                                                                ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=isackandres)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
