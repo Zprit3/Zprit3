@@ -2,11 +2,17 @@
 
 ## Hola / Hello 👋
 
-- 🔭 I’m currently working on a personal project 🎲
-- 🌱 I’m learning django 🐍
-- 👯 I’m looking to collaborate on startups 👨‍🏭
-- 💬 Ask me about anything related to frontend, music and movies 🎥
-- 📫 How to reach me: isaacmorap@outlook.com 🧑‍💻
-- ⚡ Fun fact: I spend most of the day with headphones 🎵⬇️
+<p align="center">
+  🔭 I’m currently working on a personal project 🎲<br>
+  🌱 I’m learning django 🐍<br>
+  👯 I’m looking to collaborate on startups 👨‍🏭<br>
+  💬 Ask me about anything related to frontend, music and movies 🎥<br>
+  📫 How to reach me: isaacmorap@outlook.com 🧑‍💻<br>
+  ⚡ Fun fact: I spend most of the day with headphones 🎵⬇️
+</p>
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres&count=3)](https://open.spotify.com/user/isackandres)
+<br><br>
+
+<div align="center">
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres&count=3)](https://open.spotify.com/user/isackandres)
+</div>
