@@ -5,9 +5,7 @@
 - 👯 I’m looking to collaborate on startups 👨‍🏭
 - 💬 Ask me about anything related to frontend, music and movies 🎥
 - 📫 How to reach me: isaacmorap@outlook.com 🧑‍💻
-- ⚡ Fun fact: I spend most of the day with headphones 🎵
+- ⚡ Fun fact: I spend most of the day with headphones 🎵⬇️
 
                                                                                                                       
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
