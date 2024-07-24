@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/isaacmop/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/Zprit3"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
 
-### 💻 development environment:
+### 💻 Development environment:
 
 - ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) *I use Arch, btw*
 - ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat&logo=kde&logoColor=white)
