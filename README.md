@@ -13,6 +13,6 @@
 
 <br><br>
 
-<div align="center">
-  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres&count=3)](https://open.spotify.com/user/isackandres)
-</div>
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres&count=3)](https://open.spotify.com/user/isackandres)
+
