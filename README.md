@@ -1,6 +1,6 @@
 ![My banner](https://github.com/Zprit3/Zprit3/blob/main/assets/banner.jpg)
 <br><br>
-## Hola / Hello 👋
+## Holaaa! / Helloooo! 👋
 
 🔭 I’m currently working on a personal project 🎲<br>
 🌱 I’m learning django ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)<br>
