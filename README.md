@@ -13,3 +13,5 @@
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres&count=3)](https://open.spotify.com/user/isackandres)
 
+- 🌐 Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- 🛠️ Tools: ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
