@@ -1,4 +1,4 @@
-![My banner]([https://github.com/Zprit3/Zprit3/assets/banner.jpg](https://github.com/Zprit3/Zprit3/blob/main/assets/banner.jpg))
+![My banner](https://github.com/Zprit3/Zprit3/blob/main/assets/banner.jpg)
 
 ## Hola / Hello 👋
 
