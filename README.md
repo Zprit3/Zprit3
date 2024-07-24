@@ -6,7 +6,6 @@
 🌱 I’m learning django ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)<br>
 👯 I’m looking to collaborate on startups 👨‍🏭<br>
 💬 Ask me about anything related to frontend, music and movies 🎥<br>
-📫 How to reach me: isaacmorap@outlook.com 🧑‍💻<br>
 ⚡ Fun fact: I spend most of the day with headphones 🎵⬇️
 <br><br>
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres&count=3)](https://open.spotify.com/user/isackandres)
@@ -23,8 +22,7 @@
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
   
 <br><br>
-### Talk to me 📫
-
+### How to reach me: 📫
 <a href="mailto:isaacmorap@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://linkedin.com/in/isaacmop/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/Zprit3"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
