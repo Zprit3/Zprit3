@@ -22,7 +22,7 @@
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
   
 <br><br>
-### How to reach me: 📫
+### 📫 How to reach me:
 <a href="mailto:isaacmorap@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://linkedin.com/in/isaacmop/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/Zprit3"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
