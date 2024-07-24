@@ -1,5 +1,5 @@
 ![My banner](https://github.com/Zprit3/Zprit3/blob/main/assets/banner.jpg)
-<br>
+<br><br>
 ## Hola / Hello 👋
 
 🔭 I’m currently working on a personal project 🎲<br>
@@ -8,7 +8,7 @@
 💬 Ask me about anything related to frontend, music and movies 🎥<br>
 📫 How to reach me: isaacmorap@outlook.com 🧑‍💻<br>
 ⚡ Fun fact: I spend most of the day with headphones 🎵⬇️
-<br>
+<br><br>
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres&count=3)](https://open.spotify.com/user/isackandres)
 <br><br>
 
