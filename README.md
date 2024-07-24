@@ -9,10 +9,11 @@
   💬 Ask me about anything related to frontend, music and movies 🎥<br>
   📫 How to reach me: isaacmorap@outlook.com 🧑‍💻<br>
   ⚡ Fun fact: I spend most of the day with headphones 🎵⬇️
+  
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres&count=3)](https://open.spotify.com/user/isackandres)
 </p>
 
 <br><br>
 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=isackandres&count=3)](https://open.spotify.com/user/isackandres)
 
