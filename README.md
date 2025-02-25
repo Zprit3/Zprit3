@@ -1,6 +1,7 @@
-![My banner](https://github.com/Zprit3/Zprit3/blob/main/assets/bannerZprit3.png)
+![My banner](https://github.com/Zprit3/Zprit3/blob/main/assets/bannerZprit3.jpg)
 <br><br>
 
+**Do you want to read this in English? Check out my [portfolio](https://Zprit3.github.io).**
 ## Sobre mí 👨‍💻
 
 ¡Hola! Soy Isaac Mora, un desarrollador Fullstack certificado con experiencia en **Django**, **Flutter**, **.NET** y más. Me apasiona crear aplicaciones web y móviles que sean tanto funcionales como visualmente atractivas. Actualmente, estoy trabajando en un proyecto personal: ¡un juego de rol! 🎲
